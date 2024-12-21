@@ -1,4 +1,4 @@
-# SachithGowdaM-Monster
+# SachithGowdaM-Monster Chase
 Monster Chase - 2D Unity Game
 
 Project Overview:
