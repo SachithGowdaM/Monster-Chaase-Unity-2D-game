@@ -8,6 +8,8 @@ Deployment Information:
 I have uploaded only the game files along with the required libraries to GitHub. The full game project file is not included here. If you need the complete game files, feel free to contact me.
 
 Technologies Used:
-Unity 3D
-C# Programming
-2D Game Development
+Unity 3D,
+C# Programming,
+2D Game Development.
+
+(The file has been uploaded as a tag release due to its large size. You can access the file in the "Tags" section.)
